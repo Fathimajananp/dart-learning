@@ -5,6 +5,7 @@ void main(){
   if(isRaining && !hasUmbrella ){
     print("You will get wet");
   }
+  // ignore: dead_code
   else{
     print("You will dry");
   }
